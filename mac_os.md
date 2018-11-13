@@ -26,3 +26,12 @@ PING www.google.com (172.217.6.132): 56 data bytes
 5 packets transmitted, 5 packets received, 0.0% packet loss
 round-trip min/avg/max/stddev = 43.752/43.840/43.923/0.060 ms
 ```
+### Install vagrant 
+``` 
+$ brew cask install virtualbox
+$ brew cask install vagrant 
+```
+If you want you can install vagrant manager - I dont have this installed 
+``` 
+$brew cask install vagrant-manager
+```
